@@ -10,4 +10,3 @@ namespace ORM_Dapper
         public string Name { get; set; }
     }
 }
-
